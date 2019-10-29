@@ -3,3 +3,5 @@ let newInfo = {
     age: 29,
     weight: 190
 }
+
+console.log(newInfo.name)
